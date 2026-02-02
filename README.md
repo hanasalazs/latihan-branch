@@ -1,3 +1,4 @@
 # latihan-branch
-Belajar bagaimana menggabungkan dua buah branch ke dalam repository.
-GitHub itu asyik loh.
+Belajar bagaimana menggabungkan dua buah branch ke dalam repository
+Belajar GitHub di Dicoding itu seru!
+
